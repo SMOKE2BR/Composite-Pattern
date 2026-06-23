@@ -4,6 +4,12 @@ Este projeto demonstra o uso do **padrão de projeto Composite** em Java, aplica
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  <img width="1179" height="409" alt="589785126-ddd7225b-43c4-4de4-adf5-85e1db948246" src="https://github.com/user-attachments/assets/b2348e90-51ed-4314-b00c-88e8eaf9e9fa" />
+
+
 - **Classe abstrata**
   - `ItemCardapio` → define a interface comum para pratos e categorias, com atributo `descricao` e método abstrato `getConteudo()`.
 
